@@ -125,6 +125,8 @@
 
 .masafatbar{
     margin-bottom: 5%;
+    margin-left: 10%;
+    width: 100%;
 }
 
 .workspace
@@ -135,4 +137,13 @@
     width: 100%;
     padding: 10 10;
     margin-bottom: 50;
+}
+.masafatnavr
+{
+display: flex;
+
+}
+p
+{
+  
 }
